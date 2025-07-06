@@ -1,0 +1,86 @@
+{
+    "Lot": {
+        "items": [
+            {
+                "id": "38bfbb99-07e6-5f1d-9a77-aca561e8bc21",
+                "putAwayID": "54ee978c-ea18-5956-aece-68e70b70d21d"
+            },
+            {
+                "id": "90805a25-48d3-50b0-93d0-41da93316dca",
+                "putAwayID": "4ba1eb37-63a3-5eaf-88d1-9ca65b4d9b71"
+            },
+            {
+                "id": "3d036679-495f-55d0-9e42-b8bb52b87166",
+                "putAwayID": "423c154a-12f9-5c91-aecd-ae03c0aec694"
+            },
+            {
+                "id": "b5b1bbf8-502e-50eb-a994-d1e4a2c772bf",
+                "putAwayID": "fd38a918-d682-5e7e-b273-63cbe9fbc267"
+            },
+            {
+                "id": "a33a9a4d-3ee1-5a99-86db-22c805c9c0cb",
+                "putAwayID": "29963fbc-ce51-5cd4-88ac-ff2f053ac631"
+            },
+            {
+                "id": "9a661f1d-bb44-534f-a4a3-aab476d6b504",
+                "putAwayID": "b282823f-3ba9-55d0-9387-07d800b2b0f3"
+            },
+            {
+                "id": "18cb6257-422c-50c5-81bb-f875100ad089",
+                "putAwayID": "de5350a7-f88a-525e-bc22-a20e0589b969"
+            },
+            {
+                "id": "a12b3af7-a498-5bf0-9d22-3171e199dbe8",
+                "putAwayID": "601cd407-fffd-5835-93e6-9cfb0d3c901d"
+            },
+            {
+                "id": "842236e3-9eb0-5af3-aaeb-9819dce51378",
+                "putAwayID": "29d8a4d0-e8e2-52ec-aa63-72b297befa2d"
+            },
+            {
+                "id": "0b132271-8951-50cb-b66e-084969a46eb6",
+                "putAwayID": "5c7bead7-0d96-5feb-8056-d8f2a541b48b"
+            },
+            {
+                "id": "17cc4283-e574-57f0-b50e-ec40b1b5e1f7",
+                "putAwayID": "63679c96-8255-5a37-a055-177bfdb62e7a"
+            },
+            {
+                "id": "1cabc1a3-a66f-5d39-a2d7-3d054731a65f",
+                "putAwayID": "0b0c5f0e-6052-541d-9eec-101eaeb96e91"
+            },
+            {
+                "id": "83884a80-3643-517d-bf91-5bb6631f64aa",
+                "putAwayID": "c46d26af-eb48-506c-b841-f0ce9e3ab2f7"
+            },
+            {
+                "id": "ad9f584d-a2ca-5fd3-bd99-bd486ece07e8",
+                "putAwayID": "b9ff84e9-c171-5fbb-92c4-4fa7bb1f3382"
+            },
+            {
+                "id": "c6b1e338-2fd4-5f28-bbdd-667dc430b583",
+                "putAwayID": "51899d88-43ed-52cf-ba87-36155a82b23c"
+            },
+            {
+                "id": "86c3b87a-cba0-5b17-ab56-0752ef2d769e",
+                "putAwayID": "9af2ff15-18c6-5ac2-9d23-0507289fb243"
+            },
+            {
+                "id": "5ce16500-e202-5069-b9e1-c80b595db310",
+                "putAwayID": "9967d054-e654-5107-82ac-9aad5c63b394"
+            },
+            {
+                "id": "278fb76e-613b-5d21-9470-a1899743fd50",
+                "putAwayID": "ace9ed94-9140-5fc2-9c13-a7a056bf66a9"
+            },
+            {
+                "id": "0b849686-590a-5d45-a2eb-6e1b7c12bfcb",
+                "putAwayID": "ea232278-9870-589a-a209-be3cd3b7908e"
+            },
+            {
+                "id": "57f6a535-ec7f-56a5-a571-bd6ab72bafe2",
+                "putAwayID": "ecabc61d-7543-5b8b-b303-4abe3ea560ed"
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+query WorkOrders {
+  workOrders {
+    edges {
+      node {
+        id
+        operation {
+          name
+        }
+        mo {
+          name
+        }
+        status
+        expectedDuration
+        order
+        startDate
+        endDate
+      }
+    }
+  }
+}

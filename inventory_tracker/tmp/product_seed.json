@@ -1,0 +1,51 @@
+{
+    "Product": {
+        "items": [
+            {
+                "id": "003177e4-bec7-54cf-b64d-020d44c70729",
+                "code": 3001,
+                "name": "Organic Cotton T-Shirt",
+                "description": "Soft, breathable, and made from 100% organic cotton",
+                "price": 25,
+                "uom": "piece",
+                "sellingStartDate": "2023-11-01"
+            },
+            {
+                "id": "52077eb7-9067-5fd0-b21a-146c22ace433",
+                "code": 3002,
+                "name": "Eco-Friendly Denim Jeans",
+                "description": "Stylish, durable jeans made from sustainably sourced denim",
+                "price": 75,
+                "uom": "pair",
+                "sellingStartDate": "2023-11-02"
+            },
+            {
+                "id": "98d28024-6e73-54fc-b82c-96a0d1dc99a3",
+                "code": 3003,
+                "name": "Bamboo Fiber Socks",
+                "description": "Comfortable, antibacterial socks made from bamboo fibers",
+                "price": 15,
+                "uom": "pair",
+                "sellingStartDate": "2023-11-03"
+            },
+            {
+                "id": "3e6054c2-5afb-5cf6-99f6-5720af5e0334",
+                "code": 3004,
+                "name": "Recycled Polyester Jacket",
+                "description": "Warm, lightweight jacket made from recycled polyester",
+                "price": 120,
+                "uom": "piece",
+                "sellingStartDate": "2023-11-04"
+            },
+            {
+                "id": "7c91a1e6-4396-5d33-9d87-9fab41d5bd90",
+                "code": 3005,
+                "name": "Silk Scarf",
+                "description": "Luxurious, handcrafted scarf made from pure silk",
+                "price": 50,
+                "uom": "piece",
+                "sellingStartDate": "2023-11-05"
+            }
+        ]
+    }
+}

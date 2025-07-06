@@ -1,0 +1,216 @@
+{
+    "StockEvent": {
+        "items": [
+            {
+                "id": "a7338d34-e0b5-5e97-9af9-94c75b02c8cb",
+                "eventDate": "2023-11-02",
+                "lotID": "38bfbb99-07e6-5f1d-9a77-aca561e8bc21",
+                "incrementalQuantity": 8,
+                "reason": "Put Away"
+            },
+            {
+                "id": "3cca89b1-ec82-56b3-bfa9-7f9aeb90e508",
+                "eventDate": "2023-11-03",
+                "lotID": "90805a25-48d3-50b0-93d0-41da93316dca",
+                "incrementalQuantity": 19,
+                "reason": "Put Away"
+            },
+            {
+                "id": "4ef1397e-7301-5ae7-8ba9-341b013f2daf",
+                "eventDate": "2023-11-05",
+                "lotID": "3d036679-495f-55d0-9e42-b8bb52b87166",
+                "incrementalQuantity": 3,
+                "reason": "Put Away"
+            },
+            {
+                "id": "f5683f50-1dee-5a8c-8a80-f39219b4b027",
+                "eventDate": "2023-11-06",
+                "lotID": "b5b1bbf8-502e-50eb-a994-d1e4a2c772bf",
+                "incrementalQuantity": 7,
+                "reason": "Put Away"
+            },
+            {
+                "id": "05c5b2fa-c5d1-5f27-ac4f-dc5a6c461103",
+                "eventDate": "2023-11-06",
+                "lotID": "a33a9a4d-3ee1-5a99-86db-22c805c9c0cb",
+                "incrementalQuantity": 1,
+                "reason": "Put Away"
+            },
+            {
+                "id": "fcd19885-fb8d-596f-9a93-999df0d3323d",
+                "eventDate": "2023-11-06",
+                "lotID": "9a661f1d-bb44-534f-a4a3-aab476d6b504",
+                "incrementalQuantity": 1,
+                "reason": "Put Away"
+            },
+            {
+                "id": "988acb65-b7ce-5e8e-91f2-2b320c97f445",
+                "eventDate": "2023-11-06",
+                "lotID": "18cb6257-422c-50c5-81bb-f875100ad089",
+                "incrementalQuantity": 11,
+                "reason": "Put Away"
+            },
+            {
+                "id": "c7baf85d-214a-5cc5-9146-9817d95d18ce",
+                "eventDate": "2023-11-07",
+                "lotID": "a12b3af7-a498-5bf0-9d22-3171e199dbe8",
+                "incrementalQuantity": 7,
+                "reason": "Put Away"
+            },
+            {
+                "id": "8b1541b6-6f25-597b-8bb9-c5aed80d6b68",
+                "eventDate": "2023-11-07",
+                "lotID": "842236e3-9eb0-5af3-aaeb-9819dce51378",
+                "incrementalQuantity": 7,
+                "reason": "Put Away"
+            },
+            {
+                "id": "b4b00abe-3131-52e6-b134-2bbbed39e67b",
+                "eventDate": "2023-11-07",
+                "lotID": "0b132271-8951-50cb-b66e-084969a46eb6",
+                "incrementalQuantity": 10,
+                "reason": "Put Away"
+            },
+            {
+                "id": "a83b924c-9c86-50de-8162-2ffbadc7cfd0",
+                "eventDate": "2023-11-07",
+                "lotID": "17cc4283-e574-57f0-b50e-ec40b1b5e1f7",
+                "incrementalQuantity": 2,
+                "reason": "Put Away"
+            },
+            {
+                "id": "21d897fd-de56-554e-95b5-cc795e9f794b",
+                "eventDate": "2023-11-08",
+                "lotID": "1cabc1a3-a66f-5d39-a2d7-3d054731a65f",
+                "incrementalQuantity": 20,
+                "reason": "Put Away"
+            },
+            {
+                "id": "e60a96c0-1e33-5ebd-bd48-01836b3b9063",
+                "eventDate": "2023-11-09",
+                "lotID": "83884a80-3643-517d-bf91-5bb6631f64aa",
+                "incrementalQuantity": 50,
+                "reason": "Put Away"
+            },
+            {
+                "id": "1f7e382f-aa21-5c7c-9616-f3a285c1c40c",
+                "eventDate": "2023-11-09",
+                "lotID": "ad9f584d-a2ca-5fd3-bd99-bd486ece07e8",
+                "incrementalQuantity": 7,
+                "reason": "Put Away"
+            },
+            {
+                "id": "53041ff2-5f94-58d3-922a-c128f611ad57",
+                "eventDate": "2023-11-10",
+                "lotID": "c6b1e338-2fd4-5f28-bbdd-667dc430b583",
+                "incrementalQuantity": 3,
+                "reason": "Put Away"
+            },
+            {
+                "id": "3bec451c-ac8d-5c99-87e3-162d8c3f0c17",
+                "eventDate": "2023-11-11",
+                "lotID": "86c3b87a-cba0-5b17-ab56-0752ef2d769e",
+                "incrementalQuantity": 2,
+                "reason": "Put Away"
+            },
+            {
+                "id": "8817c77a-e1b7-50b9-b077-c440338b9d67",
+                "eventDate": "2023-11-11",
+                "lotID": "5ce16500-e202-5069-b9e1-c80b595db310",
+                "incrementalQuantity": 3,
+                "reason": "Put Away"
+            },
+            {
+                "id": "00a7cdf0-d1ff-5aa9-a8fe-1325224e2b38",
+                "eventDate": "2023-11-12",
+                "lotID": "278fb76e-613b-5d21-9470-a1899743fd50",
+                "incrementalQuantity": 40,
+                "reason": "Put Away"
+            },
+            {
+                "id": "244e16c2-e1c6-5c44-8239-8f9acd1296c2",
+                "eventDate": "2023-11-14",
+                "lotID": "0b849686-590a-5d45-a2eb-6e1b7c12bfcb",
+                "incrementalQuantity": 10,
+                "reason": "Put Away"
+            },
+            {
+                "id": "6ca0c184-41d9-5cfa-9444-33ce16d5fa66",
+                "eventDate": "2023-11-17",
+                "lotID": "57f6a535-ec7f-56a5-a571-bd6ab72bafe2",
+                "incrementalQuantity": 2,
+                "reason": "Put Away"
+            },
+            {
+                "id": "dde162a5-ab40-5ede-ba49-7584a29971a9",
+                "eventDate": "2023-11-11",
+                "lotID": "38bfbb99-07e6-5f1d-9a77-aca561e8bc21",
+                "incrementalQuantity": -5,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "751f9fa8-5115-5849-b66f-3d29f6689e93",
+                "eventDate": "2023-11-11",
+                "lotID": "90805a25-48d3-50b0-93d0-41da93316dca",
+                "incrementalQuantity": -10,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "14577d67-2ee7-500d-a733-01e72e228fa4",
+                "eventDate": "2023-11-12",
+                "lotID": "3d036679-495f-55d0-9e42-b8bb52b87166",
+                "incrementalQuantity": -2,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "e967cde7-6eef-53cd-9500-5c7923e28a63",
+                "eventDate": "2023-11-13",
+                "lotID": "b5b1bbf8-502e-50eb-a994-d1e4a2c772bf",
+                "incrementalQuantity": -5,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "6c43deca-0100-5ad7-b393-ed5f37694a06",
+                "eventDate": "2023-11-14",
+                "lotID": "a33a9a4d-3ee1-5a99-86db-22c805c9c0cb",
+                "incrementalQuantity": -1,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "ff520369-5bd7-5360-a223-92fd6f280eba",
+                "eventDate": "2023-11-15",
+                "lotID": "9a661f1d-bb44-534f-a4a3-aab476d6b504",
+                "incrementalQuantity": -1,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "2866d11b-5288-5c97-8c3f-3b47d4e058ed",
+                "eventDate": "2023-11-16",
+                "lotID": "18cb6257-422c-50c5-81bb-f875100ad089",
+                "incrementalQuantity": -10,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "b20011f3-0ddc-505e-889f-73e0d1fa44fc",
+                "eventDate": "2023-11-17",
+                "lotID": "a12b3af7-a498-5bf0-9d22-3171e199dbe8",
+                "incrementalQuantity": -3,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "d8f08688-5665-5935-a5f4-a9ef97dc8e1d",
+                "eventDate": "2023-11-18",
+                "lotID": "842236e3-9eb0-5af3-aaeb-9819dce51378",
+                "incrementalQuantity": -3,
+                "reason": "Ship Out"
+            },
+            {
+                "id": "b8322c82-908f-53b9-83f0-62efe9c708d3",
+                "eventDate": "2023-11-19",
+                "lotID": "0b132271-8951-50cb-b66e-084969a46eb6",
+                "incrementalQuantity": -5,
+                "reason": "Ship Out"
+            }
+        ]
+    }
+}

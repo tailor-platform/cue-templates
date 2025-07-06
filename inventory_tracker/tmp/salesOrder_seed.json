@@ -1,0 +1,14 @@
+{
+    "SalesOrder": {
+        "items": [
+            {
+                "id": "2dcfc819-9dcf-56e0-b537-f02a93b6e2b4",
+                "lotID": "a8a634b5-8fef-50ab-995e-8d2121ec9b33",
+                "quantity": 5,
+                "salesOrderDate": "2023-11-10",
+                "customerName": "Paul Smith Jr.",
+                "deliveryAddress": "123 Main St, New York, NY 10001"
+            }
+        ]
+    }
+}

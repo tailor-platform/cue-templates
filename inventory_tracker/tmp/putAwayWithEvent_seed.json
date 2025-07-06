@@ -1,0 +1,21 @@
+{
+    "PutAwayWithEvent": {
+        "items": [
+            {
+                "id": "c2a2ca5a-a2cf-5618-83bf-1c27cee3f29b",
+                "purchaseOrderID": "63b37ec8-d7ee-5fee-9327-5e9767732278",
+                "lotID": "a8a634b5-8fef-50ab-995e-8d2121ec9b33",
+                "quantity": 8,
+                "putAwayDate": "2023-11-02"
+            },
+            {
+                "id": "62eb3502-fe92-5f2e-8a34-70505bfed2d9",
+                "purchaseOrderID": "15e40155-abfd-5fd2-9657-69d6e1739c6c",
+                "lotID": "18c493d9-d1ea-553a-ab58-d9280f5e8d9f",
+                "quantity": 11,
+                "putAwayDate": "2023-11-03"
+            }
+        ],
+        "query": "    mutation ($input: createPutAwayWithEventInput!) {\n        putAway101: createPutAwayWithEvent(input: $input)\n    }"
+    }
+}

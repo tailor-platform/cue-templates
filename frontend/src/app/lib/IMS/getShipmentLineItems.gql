@@ -1,0 +1,17 @@
+query ShipmenLineItems($shipmentID: ID!) {
+  shipmentLineItems(query: { shipmentID: { eq: $shipmentID } }) {
+    edges {
+      node {
+        shipmentID
+        id
+        variantID
+        unitCost
+        unitPrice
+        quantity
+        taxable
+        shipmentStatus
+        shippedAt
+      }
+    }
+  }
+}

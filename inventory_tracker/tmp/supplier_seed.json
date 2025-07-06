@@ -1,0 +1,46 @@
+{
+    "Supplier": {
+        "items": [
+            {
+                "id": "e36c9778-5d25-5e48-8175-16dc95ea5712",
+                "code": 1001,
+                "name": "GreenTech Solutions",
+                "contactNumber": "212-555-1234",
+                "email": "contact@greentech.com",
+                "address": "123 Main St, New York, NY 10001"
+            },
+            {
+                "id": "eaeca405-f979-535d-a341-418e87fb6ca6",
+                "code": 1002,
+                "name": "Atlas Industrial Supply",
+                "contactNumber": "212-555-2345",
+                "email": "info@atlasindustrial.com",
+                "address": "456 Broadway, New York, NY 10002"
+            },
+            {
+                "id": "d003bd8c-6d94-5600-b6d8-a8653c52fdf5",
+                "code": 1003,
+                "name": "Riverside Textiles",
+                "contactNumber": "212-555-3456",
+                "email": "sales@riversidetextiles.com",
+                "address": "789 Park Ave, New York, NY 10003"
+            },
+            {
+                "id": "395965d7-75ad-50e6-b8b7-d49c26363160",
+                "code": 1004,
+                "name": "Nova Electronics",
+                "contactNumber": "212-555-4567",
+                "email": "support@novaelectronics.com",
+                "address": "012 Lexington Ave, New York, NY 10004"
+            },
+            {
+                "id": "2ffd8f49-f383-547f-872b-bd3dc30eec98",
+                "code": 1005,
+                "name": "Prime Building Materials",
+                "contactNumber": "212-555-5678",
+                "email": "prime@buildingmaterials.com",
+                "address": "345 6th Ave, New York, NY 10005"
+            }
+        ]
+    }
+}

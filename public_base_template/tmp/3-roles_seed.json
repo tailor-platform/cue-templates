@@ -1,0 +1,18 @@
+{
+    "Role": {
+        "items": [
+            {
+                "id": "46097d88-fbae-5070-aeb1-61605b2a2531",
+                "name": "Admin"
+            },
+            {
+                "id": "2c4414be-67f4-56f5-a0de-9916cd3b4d71",
+                "name": "Editor"
+            },
+            {
+                "id": "0d8431b5-72c7-54fa-bb37-8d73014ff13c",
+                "name": "Viewer"
+            }
+        ]
+    }
+}

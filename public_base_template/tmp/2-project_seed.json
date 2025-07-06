@@ -1,0 +1,30 @@
+{
+    "Project": {
+        "items": [
+            {
+                "id": "c127825a-b7f3-5f30-ad78-0b614051f58b",
+                "name": "Mobile App Development",
+                "description": "New mobile app for customers",
+                "status": "In Progress",
+                "startDate": "2024-09-01T10:00:00Z",
+                "endDate": "2025-03-31T10:00:00Z"
+            },
+            {
+                "id": "698a8633-3e5a-5101-9a26-6a0b1ec3f92e",
+                "name": "API Integration",
+                "description": "Integration with payment gateway",
+                "startDate": "2024-10-15T10:00:00Z",
+                "endDate": "2025-04-30T10:00:00Z",
+                "status": "In Progress"
+            },
+            {
+                "id": "b15fbc36-f7c0-57d9-8c52-1c26be73c573",
+                "name": "Performance Optimization",
+                "description": "System-wide performance improvements",
+                "startDate": "2025-02-01T10:00:00Z",
+                "endDate": "2025-05-31T10:00:00Z",
+                "status": "Planning"
+            }
+        ]
+    }
+}

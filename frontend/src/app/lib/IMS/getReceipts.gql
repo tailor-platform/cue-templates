@@ -1,0 +1,18 @@
+query Receipts {
+    receipts {
+        edges {
+            node {
+                id
+                receiptStatus
+                receiptNumber
+                supplier {
+                    name
+                }
+                purchaseOrder {
+                    id
+                }
+                date
+            }
+        }
+    }
+}

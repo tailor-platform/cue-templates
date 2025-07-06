@@ -1,0 +1,12 @@
+{
+    "ShipOutWithEvent": {
+        "items": [
+            {
+                "quantity": 5,
+                "shipOutDate": "2023-11-11",
+                "salesOrderID": "2dcfc819-9dcf-56e0-b537-f02a93b6e2b4"
+            }
+        ],
+        "query": "    mutation ($input: createShipOutWithEventInput!) {\n        shipOut101: createShipOutWithEvent(input: $input)\n    }"
+    }
+}

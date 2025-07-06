@@ -1,0 +1,54 @@
+{
+    "Location": {
+        "items": [
+            {
+                "id": "ae33f1d1-c926-55fe-8854-14c77e80e70a",
+                "code": 2001,
+                "name": "Sunset Fabrics",
+                "address": "123 Sunset Blvd, Los Angeles, CA 90001",
+                "type": "storefront",
+                "contactNumber": "213-456-7890"
+            },
+            {
+                "id": "5b356250-ab5b-50a6-b957-926e3c612be0",
+                "code": 2002,
+                "name": "Starlight Textiles Warehouse",
+                "address": "456 Starlight Drive, San Francisco, CA 94101",
+                "type": "warehouse",
+                "contactNumber": "415-789-0123"
+            },
+            {
+                "id": "97301618-64ce-5468-918b-7ac2ec88c9ff",
+                "code": 2003,
+                "name": "Oceanview Linens",
+                "address": "789 Oceanview Ave, San Diego, CA 92101",
+                "type": "storefront",
+                "contactNumber": "619-012-3456"
+            },
+            {
+                "id": "649560fe-bd1c-5bde-8356-2edad3243cd6",
+                "code": 2004,
+                "name": "Golden Gate Garments Storage",
+                "address": "321 Golden Gate Ave, San Francisco, CA 94102",
+                "type": "warehouse",
+                "contactNumber": "415-234-5678"
+            },
+            {
+                "id": "27e32802-c1ee-53a0-b838-97504a50f2c5",
+                "code": 2005,
+                "name": "Hollywood Threads",
+                "address": "654 Hollywood Blvd, Los Angeles, CA 90028",
+                "type": "storefront",
+                "contactNumber": "323-345-6789"
+            },
+            {
+                "id": "aba844ee-e7c7-5d3f-87ea-a405825b61a6",
+                "code": 2006,
+                "name": "Pacific Textiles Logistics",
+                "address": "987 Pacific Highway, San Diego, CA 92102",
+                "type": "warehouse",
+                "contactNumber": "619-456-7890"
+            }
+        ]
+    }
+}

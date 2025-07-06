@@ -1,0 +1,22 @@
+{
+    "PurchaseOrder": {
+        "items": [
+            {
+                "id": "63b37ec8-d7ee-5fee-9327-5e9767732278",
+                "productID": "003177e4-bec7-54cf-b64d-020d44c70729",
+                "locationID": "ae33f1d1-c926-55fe-8854-14c77e80e70a",
+                "supplierID": "e36c9778-5d25-5e48-8175-16dc95ea5712",
+                "quantity": 10,
+                "purchaseOrderDate": "2023-11-02"
+            },
+            {
+                "id": "15e40155-abfd-5fd2-9657-69d6e1739c6c",
+                "productID": "52077eb7-9067-5fd0-b21a-146c22ace433",
+                "locationID": "5b356250-ab5b-50a6-b957-926e3c612be0",
+                "supplierID": "eaeca405-f979-535d-a341-418e87fb6ca6",
+                "quantity": 10,
+                "purchaseOrderDate": "2023-11-02"
+            }
+        ]
+    }
+}

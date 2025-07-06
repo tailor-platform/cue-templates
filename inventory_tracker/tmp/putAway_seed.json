@@ -1,0 +1,126 @@
+{
+    "PutAway": {
+        "items": [
+            {
+                "id": "54ee978c-ea18-5956-aece-68e70b70d21d",
+                "purchaseOrderID": "0e595241-ce23-5167-b22e-241730b15afd",
+                "quantity": 8,
+                "putAwayDate": "2023-11-02"
+            },
+            {
+                "id": "4ba1eb37-63a3-5eaf-88d1-9ca65b4d9b71",
+                "purchaseOrderID": "207ae7a2-f35d-569a-b1de-1177eba2f11a",
+                "quantity": 19,
+                "putAwayDate": "2023-11-03"
+            },
+            {
+                "id": "423c154a-12f9-5c91-aecd-ae03c0aec694",
+                "purchaseOrderID": "32a8008a-064e-5ee9-ae48-a7e68c4c3839",
+                "quantity": 3,
+                "putAwayDate": "2023-11-05"
+            },
+            {
+                "id": "fd38a918-d682-5e7e-b273-63cbe9fbc267",
+                "purchaseOrderID": "32a8008a-064e-5ee9-ae48-a7e68c4c3839",
+                "quantity": 7,
+                "putAwayDate": "2023-11-06"
+            },
+            {
+                "id": "29963fbc-ce51-5cd4-88ac-ff2f053ac631",
+                "purchaseOrderID": "207ae7a2-f35d-569a-b1de-1177eba2f11a",
+                "quantity": 1,
+                "putAwayDate": "2023-11-06"
+            },
+            {
+                "id": "b282823f-3ba9-55d0-9387-07d800b2b0f3",
+                "purchaseOrderID": "0e595241-ce23-5167-b22e-241730b15afd",
+                "quantity": 1,
+                "putAwayDate": "2023-11-06"
+            },
+            {
+                "id": "de5350a7-f88a-525e-bc22-a20e0589b969",
+                "purchaseOrderID": "56d7faf1-3eec-5428-bc09-c3e566d64389",
+                "quantity": 11,
+                "putAwayDate": "2023-11-06"
+            },
+            {
+                "id": "601cd407-fffd-5835-93e6-9cfb0d3c901d",
+                "purchaseOrderID": "56d7faf1-3eec-5428-bc09-c3e566d64389",
+                "quantity": 7,
+                "putAwayDate": "2023-11-07"
+            },
+            {
+                "id": "29d8a4d0-e8e2-52ec-aa63-72b297befa2d",
+                "purchaseOrderID": "98c88777-d732-574b-bee6-f61a408be064",
+                "quantity": 7,
+                "putAwayDate": "2023-11-07"
+            },
+            {
+                "id": "5c7bead7-0d96-5feb-8056-d8f2a541b48b",
+                "purchaseOrderID": "c6570bdd-6a0b-5abe-8306-8c1159018f2f",
+                "quantity": 10,
+                "putAwayDate": "2023-11-07"
+            },
+            {
+                "id": "63679c96-8255-5a37-a055-177bfdb62e7a",
+                "purchaseOrderID": "b5e661be-e408-5c84-b847-f3e897199c13",
+                "quantity": 2,
+                "putAwayDate": "2023-11-07"
+            },
+            {
+                "id": "0b0c5f0e-6052-541d-9eec-101eaeb96e91",
+                "purchaseOrderID": "3d170334-b83f-5bd9-9f40-1046dfb80439",
+                "quantity": 20,
+                "putAwayDate": "2023-11-08"
+            },
+            {
+                "id": "c46d26af-eb48-506c-b841-f0ce9e3ab2f7",
+                "purchaseOrderID": "3d170334-b83f-5bd9-9f40-1046dfb80439",
+                "quantity": 50,
+                "putAwayDate": "2023-11-09"
+            },
+            {
+                "id": "b9ff84e9-c171-5fbb-92c4-4fa7bb1f3382",
+                "purchaseOrderID": "4ef26bdf-3c62-587e-b433-1c77b8469dbc",
+                "quantity": 7,
+                "putAwayDate": "2023-11-09"
+            },
+            {
+                "id": "51899d88-43ed-52cf-ba87-36155a82b23c",
+                "purchaseOrderID": "98c88777-d732-574b-bee6-f61a408be064",
+                "quantity": 3,
+                "putAwayDate": "2023-11-10"
+            },
+            {
+                "id": "9af2ff15-18c6-5ac2-9d23-0507289fb243",
+                "purchaseOrderID": "c6570bdd-6a0b-5abe-8306-8c1159018f2f",
+                "quantity": 2,
+                "putAwayDate": "2023-11-11"
+            },
+            {
+                "id": "9967d054-e654-5107-82ac-9aad5c63b394",
+                "purchaseOrderID": "4e224bd9-ccba-5b33-ad27-2d943d20f6f5",
+                "quantity": 3,
+                "putAwayDate": "2023-11-11"
+            },
+            {
+                "id": "ace9ed94-9140-5fc2-9c13-a7a056bf66a9",
+                "purchaseOrderID": "55b715fd-23f0-591b-b4b5-b71721919c99",
+                "quantity": 40,
+                "putAwayDate": "2023-11-12"
+            },
+            {
+                "id": "ea232278-9870-589a-a209-be3cd3b7908e",
+                "purchaseOrderID": "55b715fd-23f0-591b-b4b5-b71721919c99",
+                "quantity": 10,
+                "putAwayDate": "2023-11-14"
+            },
+            {
+                "id": "ecabc61d-7543-5b8b-b303-4abe3ea560ed",
+                "purchaseOrderID": "4ef26bdf-3c62-587e-b433-1c77b8469dbc",
+                "quantity": 2,
+                "putAwayDate": "2023-11-17"
+            }
+        ]
+    }
+}

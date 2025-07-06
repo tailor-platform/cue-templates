@@ -1,0 +1,38 @@
+{
+    "User": {
+        "items": [
+            {
+                "id": "d5dd1b67-5167-53dd-92e9-690a0bf82ae0",
+                "email": "test@admin.com",
+                "roles": [
+                    "46097d88-fbae-5070-aeb1-61605b2a2531"
+                ],
+                "name": "Test Admin"
+            },
+            {
+                "id": "2539cd36-854f-5ef0-8315-169650d16a62",
+                "email": "test@manager.com",
+                "roles": [
+                    "1c681fa9-a407-58f2-9798-81a4c26c5d30"
+                ],
+                "name": "Test Manager"
+            },
+            {
+                "id": "b49ed20e-d311-53c2-a1d9-9f9e667a7664",
+                "email": "test@staff.com",
+                "roles": [
+                    "cd1bc6ab-c059-5aa6-861c-8937e49955cb"
+                ],
+                "name": "Test Staff"
+            },
+            {
+                "id": "63fb706d-a1a2-546d-9d9f-14e12cecd705",
+                "email": "test@customer.com",
+                "roles": [
+                    "e16bdef8-a434-51dd-bf03-6266548537b5"
+                ],
+                "name": "Test Customer"
+            }
+        ]
+    }
+}
